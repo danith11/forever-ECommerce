@@ -16,7 +16,9 @@ const LatestCollection = () => {
       <div className="text-center py-8 text-3xl">
         <Title text1={"LATEST"} text2={"COLLECTION"} />
         <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600 ">
-          Dummy Text{" "}
+        An E commerce web site is an online platform that facilates the
+            buying and selling of products or services over internet.It serves
+            as a virtual market place for those individuals{" "}
         </p>
       </div>
       {/* Rendoring products */}

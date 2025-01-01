@@ -9,7 +9,11 @@ const NewsLetterBox = () => {
       <p className="text-2xl font-medium text-gray-800">
         Suscribe now & get 20% off
       </p>
-      <p className="text-gray-400 mt-3">Dummy Text</p>
+      <p className="text-gray-400 mt-3">
+        An E commerce web site is an online platform that facilates the buying
+        and selling of products or services over internet.It serves as a virtual
+        market place for those individuals
+      </p>
       <form
         onSubmit={onSubmitHandler}
         className="w-full sm:w-1/2 flex items-center gap-3 mx-auto my-6 border pl-3"

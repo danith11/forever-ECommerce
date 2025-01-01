@@ -8,8 +8,9 @@ const Footer = () => {
         <div>
           <img src={assets.logo} className="mb-5 w-32" alt="" />
           <p className="w-full md:w-2/3 text-gray-600">
-            Dummy Text jjjjjjjjjjjjjjjjjjcdcbcbcc ewcwecwecwec edwedede ffggtt
-            tyuio jhggfd fds vffd ffrrg ggghj lpvpp ;=09i{" "}
+            An E commerce web site is an online platform that facilates the
+            buying and selling of products or services over internet.It serves
+            as a virtual market place for those individuals
           </p>
         </div>
         <div>
@@ -31,7 +32,9 @@ const Footer = () => {
       </div>
       <div>
         <hr />
-        <p className="py-5 text-sm text-center">Copyright 2024@ forever.com - All Rights Reserved.</p>
+        <p className="py-5 text-sm text-center">
+          Copyright 2024@ forever.com - All Rights Reserved.
+        </p>
       </div>
     </div>
   );
