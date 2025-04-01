@@ -11,7 +11,7 @@ const ProductItem = ({ id, image, name, price }) => {
           className="hover:scale-110 transition ease-in-out"
           src={image[0]}
           alt=""
-        />
+        /> 
       </div>
       <p>{name}</p>
       <p>
